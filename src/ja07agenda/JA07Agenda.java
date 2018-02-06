@@ -17,6 +17,8 @@ public class JA07Agenda {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //modificaciones para github
+        Calendar fecha;
         Scanner teclado=new Scanner(System.in);
         int opcion;
         Agenda agenda;
