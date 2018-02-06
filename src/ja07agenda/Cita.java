@@ -7,9 +7,10 @@ package ja07agenda;
 
 /**
  *
- * @author usuario
+ * @author Maite
  */
 public class Cita {
+//mas esta linea que añado para control de git
     private int hora;
     private int minutos;
     private String titulo;
